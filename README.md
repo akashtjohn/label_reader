@@ -1,8 +1,9 @@
 # label_reader
 
-![alt text](https://raw.githubusercontent.com/akash1729/label_reader/master/output_images/9_merged_boxes.jpg)
+![alt text](https://raw.githubusercontent.com/akash1729/label_reader/master/output_images/0_sample.jpg)
 
-you  can know more about the code from the article
+you  can know more about the code from the medium article
+
 part 1 : https://medium.com/ak-thomas/label-reading-from-cardboard-box-using-cv2-and-deeplearning-libraries-6673f6c04b4f
 
 part 2 : https://medium.com/ak-thomas/label-reading-from-cardboard-box-using-cv2-and-deeplearning-libraries-db767a2a8ca3
